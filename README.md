@@ -68,19 +68,18 @@ The program performs the following operations:
 
 ### Results
 
-The model achieved approximately 85.78% classification accuracy on the test dataset.
+The model achieved approximately 86.05% classification accuracy on the test dataset.
 
 **Confusion Matrix:**
 
 | Actual / Predicted | Negative | Positive |
 | ------------------ | -------: | -------: |
-| Negative           |   10,361 |    2,139 |
-| Positive           |    1,417 |   11,083 |
+| Negative           |   10,641 |    1859 |
+| Positive           |    1,628 |   10,872 |
 
-The model correctly classified 21,444 out of 25,000 movie reviews.
+The model correctly classified 21,513 out of 25,000 movie reviews.
 
 ### Output
-
 The terminal output displays the training results, test accuracy, confusion matrix, and classification report.
 
 ---
